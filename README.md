@@ -20,7 +20,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
-   R:
+   R: que un plan sea dirigido por un plan significa que es mas predecible los tiempos y costos, siendo lo acordado al pincipio lo que se refleja en el final
 
 3. ¿Cuáles son las ventajas de utilizar un plan de desarrollo?
 

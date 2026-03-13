@@ -16,34 +16,34 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 1. ¿Por qué el desarrollo de software no puede realizarse simplemente comenzando a programar?
 
-   R: no es tan simple, hay que seguir una serie de pautas y seguir pasos interrelacionados para asegurarse el exito y calidad del software
+   R: el desarrollo de un software no puede realizarse de una forma tan sencilla como sentarse a programar ya que previamente uno tiene que consultar con el cliente que es lo que este desea y debe de realizar una serie de pasos a seguir para realizar el    proyecto final
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
-   R: que un plan sea dirigido por un plan significa que es mas predecible los tiempos y costos, siendo lo acordado al pincipio lo que se refleja en el final
+   R: que un plan sea dirigido por un plan significa que es mas predecible los tiempos y costos, lo unico que no es beneficioso es el poco margen a cambio que permite esto, y siendo mayormente fiel a lo que se haya acordado en un principio con el cliente
 
 3. ¿Cuáles son las ventajas de utilizar un plan de desarrollo?
 
-   R:
+   R: las ventajas de utilizar un plan de desarrollo son varios, ya que utilizar un plan de desarrollo permite a uno prever que clase de costos en tiempo y dinero, ademas de permitir un desarrollo mas sencillo de documentacion detallada 
 
 4. ¿Qué críticas se hacen a los modelos tradicionales de desarrollo?
 
-   R:
+   R: las criticas a los modelos tradicionales de desarrollo son sobre que estos no permiten una gran flexibilidad, hay poca interaccion, las omisiones o errores se pueden arrastrar sencillamente a etapas posteriores, siendo dificil de aplicar en          proyectos grandes o complejos
 
 5. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
-   R: 
+   R: en la practica muchas organizaciones combinan metodologias agiles y modelos dirigidos para obtener los beneficios de ambas metodologias, la prevision y calculo de costos y tiempo de un plan desarrollado, y la flexibilidad que implica la               metodologia agil, la retroalimentacion con el cliente de la metodologia agil, la documentacion y plan del desarrollado, etc. Haciendo asi el desarrollo mas efectivo para un hardware
 
 
 ### Actividad 2
 
 | Etapa                         | Descripción |
 | ----------------------------- | ----------- |
-| Análisis                      |             |
-| Diseño                        |             |
-| Codificación                  |             |
-| Prueba                        |             |
-| Puesta en marcha / Despliegue |             |
+| Análisis                      |identifican las necesidades y problemas que deben ser abordados, el resultado es un documento que si se siguen las reglas y convenciones especificas, captura todas las necesidades del cliente|
+| Diseño                        |se elabora un diseño que aborda los problemas presentados en la etapa anterior y respeta tambien los limites establecidos, generando una documentacion detallada para que los programadores construir el codigo efectivamente|
+| Codificación                  |los programadores llevan la etapa de codificacion en base al documento que les llego de la etapa de diseño, utilizando un lenguaje de programacion determinada|
+| Prueba                        |en la etapa de prueba se identifican posibles errores y se reportan al equipo de codificacion para corregirlos antes del despliegue del software|
+| Puesta en marcha / Despliegue |se instala el software en la computadora del cliente y se le da una capacitacion a los usuarios para que puedan utilizar eficientemente el software  |
 
 
 * Luego responda:

@@ -49,13 +49,13 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 * Luego responda:
   * ¿En qué etapa se obtienen los requerimientos del sistema?
     
-    R:
+    R: los requerimientos del sistema se obtienen principalmente y primeramente de la etapa de analisis, la cual es donde uno le pregunta al cliente que es lo que tiene que solucionar
   * ¿En qué etapa se construye el programa?
 
-    R:
+    R: el programa se construye en la etapa de diseño ya que es donde estos deciden el como se vera el software y como deberia de funcionar en la teoria
   * ¿Cuál es el objetivo principal de las pruebas?
     
-    R:
+    R: el objetivo principal de las pruebas es reconocer todos los posibles errores que pueden llegar a ocurrir antes del lanzamiento del software
 ### Actividad 3
 Ordene las siguientes etapas según corresponda  Diseño
 -al modelo lineal secuencial:
@@ -65,15 +65,20 @@ Ordene las siguientes etapas según corresponda  Diseño
 - Despliegue
 - Ingeniería de requerimientos
 ---
-R:
+R:  Ingenieria de requerimientos
+    Diseño
+    condificacion
+    prueba
+    despliegue
 
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
     
-    R:
+    R: depende del tipo de error que surga en la etapa inicial, pero esto siempre suele afectar mucho al rendimiento/diseño final que tenga el software, siendo mucho mas critico que si ocurriera mas adelante en el desarrollo
   * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
 
-    R:
+    R: suele ser problematico ya que en la entrevista ya se planifica desde el comienzo todo lo que el software tendra, y este modelo no suele tener mucha retroalimentacion con el cliente lo que provoca que si hay que hacer cambios sean mas costosos en tiempo y dinero
+    
 ### Actividad 4
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |

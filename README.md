@@ -83,16 +83,19 @@ R:  Ingenieria de requerimientos
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
-| Cascada     |                          |                        |
-| Incremental |                          |                        |
-| Prototipos  |                          |                        |
-| Espiral     |                          |                        |
-| RAD         |                          |                        |
+| Cascada     |rigido, lineal y previsible|sistemas pequeños con requisitos claros y estables|
+| Incremental |entregas parciales y funcionales|personal limitado y gran proyecto|
+| Prototipos  |version acotada y funcional|incertidumbre en requerimientos|
+| Espiral     |desarrollo en paralelo|plazos de tiempo ajustados|
+| RAD         |enfoque dirigido por riesgo|costo de error muy alto|
 
 - Responder:
   - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
+  
+    R: cuando existen muchos riesgos en el proyecto es mas adecuado utilizar un desarrollo en RAD
   - ¿Qué modelo ayuda a comprender mejor los requerimientos del usuario?
-    
+
+    R: El modelo que mas ayuda a comprender los requierimientos del usuario es el modelo prototipo
 ### Actividad 5 – Caso práctico
 Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 
@@ -106,19 +109,19 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 
 - ¿Qué modelo de desarrollo recomendaría? 
 
-  R: 
+  R: recomendaria un desarrollo en cascada
 - Justifique su respuesta.
 
-  R:
+  R: este se acomoda perfectamente a los requerimientos claros que tiene el proyecto lo que significa que no habra cambios bruscos que afecten al resultado final de este, ademas de que sera beneficioso ya que uno puede preveer cuanto costara y cuanto tiempo tendra
 - ¿Qué etapas principales tendría el desarrollo?
 
-  R:
+  R: las etapas principales que tiene son: la entrevista y la codificacion
 
 ### Actividad 7 – Verdadero o Falso
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
 
-1. [ ] El modelo en cascada permite cambios constantes en los requerimientos.
-2. [ ] El modelo incremental entrega el sistema en varias versiones.
-3. [ ] Un prototipo se utiliza para comprender mejor los requerimientos.
-4. [ ] El modelo RAD busca reducir los tiempos de desarrollo.
-5. [ ] El modelo en espiral incorpora el análisis de riesgos.
+1. [F] El modelo en cascada permite cambios constantes en los requerimientos.
+2. [V] El modelo incremental entrega el sistema en varias versiones.
+3. [V] Un prototipo se utiliza para comprender mejor los requerimientos.
+4. [F] El modelo RAD busca reducir los tiempos de desarrollo.
+5. [F] El modelo en espiral incorpora el análisis de riesgos.
